@@ -1,0 +1,44 @@
+html, body {
+  margin: 0 ;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+main {
+  margin: 0 40px 0 40px;
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+}
+
+div {
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+  padding: 7px;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: dimgray;
+  color: #fff;
+}
+
+h1,h3 {
+  font-family: 'ヒラギノ明朝 ProN','Hiragino Mincho ProN';
+  text-align: center;
+}
+
+h3 {
+  margin-top: -20px;
+}
