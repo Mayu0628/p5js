@@ -4,7 +4,7 @@ var sketch1 = function(p) {
   let snowImg1;
 
   p.preload = function() {
-    snowImg1 = p.loadImage("sakura.png");
+    snowImg1 = p.loadImage("../img/sakura.png");
   }
 
   p.setup = function() {
@@ -57,7 +57,7 @@ var sketch2 = function(p) {
   let snowImg1;
 
   p.preload = function() {
-    snowImg1 = p.loadImage("leaf.png");
+    snowImg1 = p.loadImage("../img/leaf.png");
   }
 
   p.setup = function() {
@@ -110,7 +110,7 @@ var sketch3 = function(p) {
   let snowImg1;
 
   p.preload = function() {
-    snowImg1 = p.loadImage("momiji.png");
+    snowImg1 = p.loadImage("../img/momiji.png");
   }
 
   p.setup = function() {
@@ -163,7 +163,7 @@ var sketch4 = function(p) {
   let snowImg1;
 
   p.preload = function() {
-    snowImg1 = p.loadImage("snow.png");
+    snowImg1 = p.loadImage("../img/snow.png");
   }
 
   p.setup = function() {

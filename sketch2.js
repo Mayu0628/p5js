@@ -2,8 +2,8 @@ let snow = [];
 let snowImg1, snowImg2;
 
 function preload() {
-  snowImg1 = loadImage("nikukyu.png");
-  snowImg2 = loadImage("nikukyuu2.png");
+  snowImg1 = loadImage("../img/nikukyu.png");
+  snowImg2 = loadImage("../img/nikukyuu2.png");
 }
 
 // 画面全体
